@@ -12,3 +12,6 @@ console.log(footer);
 //new branch payment 
 const payment = "integrated payment gatway";
 console.log(payment);
+
+const upi = "integrated upi";
+console.log(upi);
