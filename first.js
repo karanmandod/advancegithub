@@ -8,3 +8,7 @@ console.log(login);
 
 const footer  = "added footer";
 console.log(footer);
+
+//new branch payment 
+const payment = "integrated payment gatway";
+console.log(payment);
